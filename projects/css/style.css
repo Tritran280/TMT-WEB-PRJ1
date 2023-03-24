@@ -148,7 +148,7 @@ section {
 @media (min-width: 1200px) and (min-height: 640px) {
   .page-cover-wrapper-fixed {
     width: auto;
-    left: 200px;
+    left: 0px;
     right: 0;
   }
 }
@@ -157,3 +157,18 @@ section {
     left: 20%;
   }
 }
+
+pre {
+  background: url(http://1.bp.blogspot.com/-l5BDeH7iWWE/T64lzANUiUI/AAAAAAAADOs/oSKgKQUn_ls/s1600/Svip4u-namkna-blogspot-com.png) repeat scroll 0 0 #FFFFFF;
+  border: 3px solid #5c5656;
+  clear: both;
+  color: #333333;
+  display: block;
+  font-size: 13px;
+  line-height: 15px;
+  padding-right: 100px;
+  overflow: auto;
+  white-space: pre;
+  width: 100% !important;
+  word-wrap: break-word;}
+
